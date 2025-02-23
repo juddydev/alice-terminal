@@ -1,0 +1,12 @@
+/* #root {
+  max-width: 1280px;
+}
+.container {
+  width: 100%;
+  height: 100%;
+} */
+
+.react-terminal-line {
+  white-space: pre-wrap !important;
+  word-wrap: break-word;
+}
